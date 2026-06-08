@@ -49,6 +49,12 @@ Platform for service contractors that unifies time tracking, tax-aware cost calc
 
 → [**Visit apura.app**](https://apura.app)
 
+### 📚 [Clioteca](https://clioteca.app) &nbsp; ![Study · Canon](https://img.shields.io/badge/Study%20%C2%B7%20Canon-2563eb?style=flat-square)
+
+Study platform that maps the canon of history's great figures and works onto a visual timeline — with guided entry points, personal study plans, reflections, and a community of fellow learners.
+
+→ [**Visit clioteca.app**](https://clioteca.app)
+
 ---
 
 <div align="center">
