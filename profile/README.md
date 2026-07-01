@@ -43,11 +43,11 @@ Investment management platform that unifies multi-currency portfolio tracking, d
 
 → [**Visit investdesk.app**](https://investdesk.app)
 
-### 🕐 [Apura](https://apura.app) &nbsp; ![Billing · Invoicing](https://img.shields.io/badge/Billing%20%C2%B7%20Invoicing-7c3aed?style=flat-square)
+### 🕐 [EuPJ](https://eupj.app) &nbsp; ![Billing · Invoicing](https://img.shields.io/badge/Billing%20%C2%B7%20Invoicing-7c3aed?style=flat-square)
 
 Platform for service contractors that unifies time tracking, tax-aware cost calculation, and invoicing for a clear view of true service costs and smarter pricing decisions.
 
-→ [**Visit apura.app**](https://apura.app)
+→ [**Visit eupj.app**](https://eupj.app)
 
 ### 📚 [Clioteca](https://clioteca.app) &nbsp; ![Study · Canon](https://img.shields.io/badge/Study%20%C2%B7%20Canon-2563eb?style=flat-square)
 
