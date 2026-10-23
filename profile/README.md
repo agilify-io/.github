@@ -55,6 +55,12 @@ Study platform that maps the canon of history's great figures and works onto a v
 
 → [**Visit clioteca.app**](https://clioteca.app)
 
+### 🏪 Vendaki &nbsp; ![Commerce · Storefront](https://img.shields.io/badge/Commerce%20%C2%B7%20Storefront-ea580c?style=flat-square)
+
+White-label commerce platform that gives each merchant their own branded online store — catalog with variations and stock, delivery by region, and an order queue from checkout to the customer's door.
+
+→ **Coming soon**
+
 ---
 
 <div align="center">
