@@ -61,6 +61,12 @@ White-label commerce platform that gives each merchant their own branded online 
 
 → **Coming soon**
 
+### 💬 Atendaki &nbsp; ![Customer Service · WhatsApp](https://img.shields.io/badge/Customer%20Service%20%C2%B7%20WhatsApp-0891b2?style=flat-square)
+
+AI customer service on WhatsApp for small businesses — the store connects its own number and an assistant answers its customers from the profile the store approved, books appointments on Google Calendar, and hands the team whatever it doesn't know.
+
+→ **Coming soon**
+
 ---
 
 <div align="center">
