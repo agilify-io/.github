@@ -67,7 +67,7 @@ AI customer service on WhatsApp for small businesses — the store connects its 
 
 → **Coming soon**
 
-### 🏗️ Construfy &nbsp; ![Construction · Quotes](https://img.shields.io/badge/Construction%20%C2%B7%20Quotes-475569?style=flat-square)
+### 🏗️ Construfy &nbsp; ![Construction · Quotes](https://img.shields.io/badge/Construction%20%C2%B7%20Quotes-9c3d24?style=flat-square)
 
 Sales management for companies that sell products and services to construction projects — catalog and customers imported from a spreadsheet, quotes issued as a PDF with the company's own logo, the approved quote turned into a contract, and each contract measured and billed.
 
